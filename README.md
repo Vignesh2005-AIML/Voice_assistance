@@ -17,6 +17,7 @@ You can customize Subramani’s behavior, tone, and personality directly in the 
 
 ___
 <h3>Project Structure</h3>
+
 ```bash
 voice-assistant/
 │
