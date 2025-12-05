@@ -120,13 +120,17 @@ ___
 <li>Secure API key handling</li>
 
 </ul>
+
 ___
+
 <h3>Acknowledgements</h3>
 <ul>
 <li><b>Codedex.io</b>– Original project inspiration</li>
 <li><b>ElevenLabs</b> – Conversational AI platform</li>
 </ul>
+
 ___
+
 <h3>Author</h3>
 Vignesh N
  
